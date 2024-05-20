@@ -6,3 +6,6 @@
   * New Styled Icons that look better
   * Some new games from cool math
   * Chat bug is fixed
+## Up Coming Html apps
+* aboutblank unblocker/proxy
+* youtube video embeder/ saver for watching youtube in school, my teacher blocks it during her class :( 

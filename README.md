@@ -1,1 +1,1 @@
-### i just make random shit in html
+# Just a frontend dev that can do some backend in python and <i>maybe</i> node js on a good day

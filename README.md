@@ -3,10 +3,9 @@ Websites:
 * [games](https://awsome-webdev.github.io)
 * [Blog & me jus messing around](https://awdv.dev)
 
-My coding time today:
-![Alt text](https://waka.hackclub.com/api/badge/U089DDUG03X/interval:today?label=today)
 
-My coding time last 30days:![this month](https://waka.hackclub.com/api/badge/U089DDUG03X/U089DDUG03X/interval:30_days?label=last%2030d)
+Coding activity:<br>
+![Heatmap](https://heatmap.shymike.dev/?id=934&timezone=America/Chicago)
 
 
 and this:<br>
